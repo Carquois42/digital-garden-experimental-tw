@@ -4,29 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "f18c6ec1886a7445",
+        "id": "f7af6e05cff6810f",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cochlea.md",
-            "mode": "source"
-          }
-        },
-        "group": "2e0cea914b817242"
-      },
-      {
-        "id": "def963c91565d3c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cochlea.md",
-            "mode": "source"
-          }
-        },
-        "group": "2e0cea914b817242"
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -74,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "Cochlea.md"
-              }
+              "state": {}
             }
           }
         ]

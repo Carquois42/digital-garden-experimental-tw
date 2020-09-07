@@ -42,9 +42,11 @@ permalink: /
 ### 🌱 Groups / Projects
 
 - [[Be Ni Ya Ben]] [美麗亞幫](Be%20Ni%20Ya%20Ben){: .internal-link}
+- [[Cochlea]]
 - [[No-Input Army]]
 - [[Outer Pulsation]]
 - [[Saint Sloth Machine]] [聖・死啦什麼心](Saint%20Sloth%20Machine){: .internal-link}
+- [[SSMO]]
 
 ---
 ### 🌱 Collaborations / Other Contributors
