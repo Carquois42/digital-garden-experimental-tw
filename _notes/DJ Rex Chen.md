@@ -17,5 +17,5 @@ Cheng Yi Chung has a deep connection to Japanese Indie culture and has used this
 ### Links
 [Bandcamp](https://djrexchen.bandcamp.com/)
 
-### Discography
+### Selected Discography
 - with [[Jun-Yang Li]] & [[Xiao Liu]] - [Sù Vol 3](https://djrexchen.bandcamp.com/album/s-vol-3)

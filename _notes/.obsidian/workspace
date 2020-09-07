@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "fa04327d0edace32",
+    "type": "split",
+    "children": [
+      {
+        "id": "f18c6ec1886a7445",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cochlea.md",
+            "mode": "source"
+          }
+        },
+        "group": "2e0cea914b817242"
+      },
+      {
+        "id": "def963c91565d3c2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cochlea.md",
+            "mode": "source"
+          }
+        },
+        "group": "2e0cea914b817242"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "600372d49a7e1af8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60ed71cb55fb959",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aec815d129804bf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a41bd4236c33925e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ba9b465252eb3b90",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe76e730f16e13d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dde519473435ebc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cochlea.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Cochlea.md",
+    "Bardo Pond.md",
+    "Fangyi Liu.md",
+    "Untitled.md",
+    "Jun-Yang Li.md"
+  ]
+}

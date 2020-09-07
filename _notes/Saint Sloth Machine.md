@@ -4,7 +4,7 @@ image: /assets/ssm.webp
 
 ---
 ![]({{page.image}})
-<center> Photo by Etang Chen </center>
+<p align="center" style="font-size: 0.7em"> Photo by Etang Chen </p>
 
 [Website](https://saintslothmachine.wix.com/maze)
 
@@ -15,4 +15,19 @@ image: /assets/ssm.webp
 ---
 ### About
 Built on the idea of <Towards the Pan-Musique Concrète> by Dajuin Yao, the concept of St. Sloth Machine's music is to adapt the idea into pop music context. In short, their music is not based on the physical properties of Sound, e.g., the harmonies of notes or tones, nor of music, e.g., melody, harmony, rhythm or metre, which are often the Music symbols, or rather, the building blocks of a piece of music. St. Sloth Machine directly uses the common listening habits of human beings,  as the baseline to effectively stimulate the audiences, making Sound a concrete property to deliver abstract concepts and states of mind.
+
+#### Members
+- [[Jyun-Ao Caesar]]
+- [[Lala Reich]]
+- Pillof Yau
+- Weiting Huang
+
+#### Discography
+- Opus 4 - [El otoño del patriarca](https://saintslothmachine.bandcamp.com/album/el-oto-o-del-patriarca)
+MDR-00, March 1, 2018, [[Merdogon Records]].
+
+- Opus 1 - [Nous décrétons un état de bonheur permanent ](https://senko-issha.bandcamp.com/album/nous-decretons-un-etat-de-bonheur-permanent)
+SI-00, July 2016, [[Senko Issha]] .
+
+---
 

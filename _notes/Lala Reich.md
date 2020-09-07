@@ -17,4 +17,3 @@ When she plays drum, sometimes she sounds like an animal.
 ### Links
 - [SoundCloud](https://soundcloud.com/xxxlalaxxx)
 - [Paintings](https://www.instagram.com/reich.lala/)
-- 

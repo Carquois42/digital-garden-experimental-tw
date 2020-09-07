@@ -8,6 +8,7 @@ image: /assets/fangyi.jpg
 ### Links
 - [Website](https://liufangyi.weebly.com)
 - [[Be Ni Ya Ben]]
+- [[Cochlea]]
 
 ---
 
