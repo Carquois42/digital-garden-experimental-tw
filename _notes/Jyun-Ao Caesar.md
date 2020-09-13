@@ -29,7 +29,7 @@ solo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyParh-OTlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-with [[Lala Reich]] el al, a.k.a. Saint Sloth Machine Orchestra 
+with [[Lala Reich]] el al, as [[SSMO]]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hhj9-bh-eu4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 with [[Lala Reich]] & [Otomo Yoshihide](http://otomoyoshihide.com/en/)

@@ -29,5 +29,5 @@ MDR-00, March 1, 2018, [[Merdogon Records]].
 - Opus 1 - [Nous décrétons un état de bonheur permanent ](https://senko-issha.bandcamp.com/album/nous-decretons-un-etat-de-bonheur-permanent)
 SI-00, July 2016, [[Senko Issha]] .
 
----
+
 

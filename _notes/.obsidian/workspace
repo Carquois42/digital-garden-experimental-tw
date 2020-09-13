@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Xin-Yun Cai.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": ""
+              }
             }
           }
         ]
@@ -58,7 +63,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "Xin-Yun Cai.md"
+              }
             }
           }
         ]
@@ -69,10 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Cochlea.md",
-    "Bardo Pond.md",
-    "Fangyi Liu.md",
-    "Untitled.md",
-    "Jun-Yang Li.md"
+    "Xin-Yun Cai.md",
+    "Saint Sloth Machine.md",
+    "Merdogon Records.md",
+    "Lala Reich.md",
+    "Jyun-Ao Caesar.md"
   ]
 }
