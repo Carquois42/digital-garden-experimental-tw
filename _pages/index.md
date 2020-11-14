@@ -57,6 +57,7 @@ permalink: /
 - [Etang Chen](http://etangchen.com)
 - [I-Cheng Lin](https://samplerecord.blogspot.com/)
 - [Kaku Gyuu 牛角](https://www.youtube.com/channel/UCXKZsHDvB29MnIhUOKNYXNw)
+- [Yulin Huang](https://medium.com/yulinghuang)
 
 ---
 
