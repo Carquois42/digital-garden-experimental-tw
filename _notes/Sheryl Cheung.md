@@ -4,7 +4,7 @@ image: /assets/Sheryl.jpg
 ---
 
 ![]({{page.image}})
-<p align="center" style="font-size: 0.7em"> Live at [[Outer Pulsation]], Photo by Gam Zuei </p>
+<p align="center" style="font-size: 0.7em"> Live at [[SSMO]], Photo by Gam Zuei </p>
 
 
 ### Short bios
